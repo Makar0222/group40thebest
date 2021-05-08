@@ -11,6 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r cars}
-runApp("2")
+runApp("app.R")
 ```
 
